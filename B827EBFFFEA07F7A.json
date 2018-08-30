@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFEA07F7A",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+     "ref_latitude": 49.54423636,
+     "ref_longitude": 11.02280448,
+     "ref_altitude": 280,
+     "contact_email": "Maximilian.Rohleder@methodpark.de",
+     "description": "MethodPark IoT Developement Gateway - RPi & iC880"
+  }
+}
